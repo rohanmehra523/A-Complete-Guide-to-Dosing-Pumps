@@ -4,7 +4,7 @@ Such accurate doses cannot be done by people on such a massive scale. Thus, chem
 What is a dosing pump? <br>
 A dosing pump is a positive displacement pump, designed to inject very precise flow rates of a chemical or another substance into a fluid. A mechanism of this type of pump involves drawing a measured quantity of fluid into the chamber and then injecting this into the container being dosed. Dosing pumps are the central part of an integrated dosing system. <br>
 
-Components of a Dosing Pump system <br>
+**Components of a Dosing Pump system** <br>
 •	Tank or Chemical Container: The container holding the fluid to be dosed. <br>
 •	Foot Valve: A non-return/one-way valve that is attached to the suction line and placed into the drum of the products and keeps the product primed. <br>
 •	Pump: Varies in material and size, it has an inlet, suction line and a dosing line. <br>
@@ -12,7 +12,7 @@ Components of a Dosing Pump system <br>
 •	Dosing Line: A rigid tube or reinforced hose, it is generally made of rigid PVC, PE, or stainless steel for high-pressure use. <br>
 •	Control System: A control system ensure accuracy in dosing and can be turned off and on at specific times. <br>
 
-Material of Construction <br>
+**Material of Construction** <br>
 The base material of a dosing pump is important as it affects the type of medium that can be handled effectively. The fluids may be abrasive, acidic, caustic, tacky, very hot/cold, or hazardous. The base materials used possess different advantages for handling these various characteristics of the medium(s). <br>
 •	Plastics: Plastic is the least expensive base material and has excellent corrosion resistance and protection from a broad range of chemicals. <br>
 •	Stainless steel alloys: These provide excellent protection against various chemicals and from rust corrosion. They also have higher pressure ratings than most plastics. <br>
